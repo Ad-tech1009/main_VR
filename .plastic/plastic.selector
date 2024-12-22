@@ -1,0 +1,4 @@
+repository "new-repository@local"
+  path "/"
+    br "/main"
+    co "/main"
